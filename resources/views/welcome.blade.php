@@ -213,7 +213,10 @@
         $().ready(() => {
 
             $( window ).scroll((() => {
-                if ($('html, body').scrollTop() > 300) {
+                const scrollTop = Math.max(window.pageYOffset, document.documentElement.scrollTop, document.body.scrollTop);
+                // console.log('top: ' + $('html, body').scrollTop());
+                // console.log('top: ' + scrollTop);
+                if (scrollTop > 300) {
                     $('.btn-translucent').show();
                 } else {
                     $('.btn-translucent').hide();
