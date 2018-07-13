@@ -160,7 +160,15 @@
             <div class="content-sidebar">
                 <h2>新營店</h2>
             </div>
-            <img src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t1.0-9/23622471_1710785692288726_256628625464988385_n.jpg?_nc_cat=0&_nc_eui2=AeHXE_WCWxB28hi1RBrByFvE7FW46cEZo-0-lbXQTy2sPv8R9RaKSzGPgiKRixF6P3c5RfHaZN_cfRYK4eb53ucicW_9ccW5oN7AQF38BcIi-A&oh=3ab8292618ce4a51e10f30b0a46ef38f&oe=5BB9C765">
+            {{-- <img src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t1.0-9/23622471_1710785692288726_256628625464988385_n.jpg?_nc_cat=0&_nc_eui2=AeHXE_WCWxB28hi1RBrByFvE7FW46cEZo-0-lbXQTy2sPv8R9RaKSzGPgiKRixF6P3c5RfHaZN_cfRYK4eb53ucicW_9ccW5oN7AQF38BcIi-A&oh=3ab8292618ce4a51e10f30b0a46ef38f&oe=5BB9C765"> --}}
+            <iframe 
+                width="100%" 
+                height="450" 
+                frameborder="0" 
+                style="border:0" 
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDPP-4SGtbYvH_D5dF76GU_9e414PGVI7g&q=台南市新營區新進路69-10號" 
+                allowfullscreen>
+            </iframe>
             <div class="caption">
                 <h4>台南市新營區新進路69-10號</h4>
                 <h4>(06)6320059</h4>
@@ -173,7 +181,15 @@
             <div class="content-sidebar">
                 <h2>佳里店</h2>
             </div>
-            <img src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t1.0-9/23622471_1710785692288726_256628625464988385_n.jpg?_nc_cat=0&_nc_eui2=AeHXE_WCWxB28hi1RBrByFvE7FW46cEZo-0-lbXQTy2sPv8R9RaKSzGPgiKRixF6P3c5RfHaZN_cfRYK4eb53ucicW_9ccW5oN7AQF38BcIi-A&oh=3ab8292618ce4a51e10f30b0a46ef38f&oe=5BB9C765">
+            {{-- <img src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t1.0-9/23622471_1710785692288726_256628625464988385_n.jpg?_nc_cat=0&_nc_eui2=AeHXE_WCWxB28hi1RBrByFvE7FW46cEZo-0-lbXQTy2sPv8R9RaKSzGPgiKRixF6P3c5RfHaZN_cfRYK4eb53ucicW_9ccW5oN7AQF38BcIi-A&oh=3ab8292618ce4a51e10f30b0a46ef38f&oe=5BB9C765"> --}}
+            <iframe 
+                width="100%" 
+                height="450" 
+                frameborder="0" 
+                style="border:0" 
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDPP-4SGtbYvH_D5dF76GU_9e414PGVI7g&q=台南市佳里區延平路567號" 
+                allowfullscreen>
+            </iframe>
             <div class="caption">
                 <h4>台南市佳里區延平路567號</h4>
                 <h4>(06)6320059</h4>
