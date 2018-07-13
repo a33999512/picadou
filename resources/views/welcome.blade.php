@@ -166,7 +166,7 @@
                 height="450" 
                 frameborder="0" 
                 style="border:0" 
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDPP-4SGtbYvH_D5dF76GU_9e414PGVI7g&q=台南市新營區新進路69-10號" 
+                src="https://www.google.com/maps/embed/v1/place?key={{ config('google.maps_embed_api.key') }}&q=台南市新營區新進路69-10號" 
                 allowfullscreen>
             </iframe>
             <div class="caption">
@@ -187,7 +187,7 @@
                 height="450" 
                 frameborder="0" 
                 style="border:0" 
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDPP-4SGtbYvH_D5dF76GU_9e414PGVI7g&q=台南市佳里區延平路567號" 
+        src="https://www.google.com/maps/embed/v1/place?key={{ config('google.maps_embed_api.key') }}&q=台南市佳里區延平路567號" 
                 allowfullscreen>
             </iframe>
             <div class="caption">
